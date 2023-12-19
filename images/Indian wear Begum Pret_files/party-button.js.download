@@ -1,0 +1,13 @@
+    if (window.location.href.indexOf("oseid=") > -1) 
+	{
+document.getElementById('hideshooowtt').style.display = 'block'	;
+
+	}
+	
+	else
+		
+		{
+		document.getElementById('hideshooowtt').style.display = 'none'	;
+	
+		}
+		
